@@ -1,3 +1,7 @@
+WIFI: USER
+
+pwd: user!2019
+
 # Visualising high-dimensional data 
 ## Tutorial notes for useR! 2019
 
